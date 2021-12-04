@@ -1,0 +1,30 @@
+.cart-page {
+  background-color: rgb(128, 120, 120);
+  color: rgb(54, 7, 7);
+  width: 200px;
+  height: 100%;
+  top: 70px;
+  right: 0px;
+  position: fixed;
+  opacity: 0.93;
+
+  background-image: linear-gradient(
+    to right,
+    rgba(248, 248, 248, 0.267),
+    rgba(8, 71, 143, 0.575)
+  );
+}
+.hidden-cart {
+  display: none;
+}
+.back-image {
+  width: 60px;
+  height: 40px;
+  top: 10px;
+  margin: 10px;
+}
+.back-image:hover {
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+  transition: transform 0.9s;
+}

@@ -1,0 +1,17 @@
+.contact {
+  color: rgb(24, 12, 12);
+  padding: 20px;
+  font-size: 30px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-weight: 600;
+}
+.container-contact {
+  color: aliceblue;
+  max-width: 500px;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  padding-bottom: 20px;
+  font-weight: 500;
+}
