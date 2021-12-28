@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/bookameal/static/css/main.ca4e1ba7.chunk.css",
-    "main.js": "/bookameal/static/js/main.f71f9d5f.chunk.js",
-    "main.js.map": "/bookameal/static/js/main.f71f9d5f.chunk.js.map",
+    "main.css": "/bookameal/static/css/main.0beaca38.chunk.css",
+    "main.js": "/bookameal/static/js/main.bf574636.chunk.js",
+    "main.js.map": "/bookameal/static/js/main.bf574636.chunk.js.map",
     "runtime-main.js": "/bookameal/static/js/runtime-main.93554b46.js",
     "runtime-main.js.map": "/bookameal/static/js/runtime-main.93554b46.js.map",
     "static/js/2.556523fe.chunk.js": "/bookameal/static/js/2.556523fe.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.2afe6545.chunk.js": "/bookameal/static/js/3.2afe6545.chunk.js",
     "static/js/3.2afe6545.chunk.js.map": "/bookameal/static/js/3.2afe6545.chunk.js.map",
     "index.html": "/bookameal/index.html",
-    "static/css/main.ca4e1ba7.chunk.css.map": "/bookameal/static/css/main.ca4e1ba7.chunk.css.map",
+    "static/css/main.0beaca38.chunk.css.map": "/bookameal/static/css/main.0beaca38.chunk.css.map",
     "static/js/2.556523fe.chunk.js.LICENSE.txt": "/bookameal/static/js/2.556523fe.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.93554b46.js",
     "static/js/2.556523fe.chunk.js",
-    "static/css/main.ca4e1ba7.chunk.css",
-    "static/js/main.f71f9d5f.chunk.js"
+    "static/css/main.0beaca38.chunk.css",
+    "static/js/main.bf574636.chunk.js"
   ]
 }
