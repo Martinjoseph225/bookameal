@@ -40,17 +40,15 @@ const ItemSpecificDish = ({ val }) => {
     return (
       <div className="item-specific">
         <li className="item-specific-li">
-          {item.strMeal}
-          <img className="image" src={item.strMealThumb} />
-        </li>
-        <div className="order-food">
+          <div>{item.strMeal}</div>
+          <img className="imageitem" src={item.strMealThumb} />
           <button
             className="order-button"
             onClick={() => orderFood(item.strMeal)}
           >
             Add
           </button>
-        </div>
+        </li>
       </div>
     );
   });
